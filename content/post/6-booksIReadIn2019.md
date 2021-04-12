@@ -13,6 +13,8 @@ categories = [
 ]
 +++
 
+A list of all books I read in the year 2019.
+
 # Books
 
 ## Novel 

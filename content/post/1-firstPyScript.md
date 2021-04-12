@@ -12,6 +12,8 @@ categories = [
 ]
 +++
 
+Converting a disorganized text file into a neat CSV file.
+
 So I decided to learn Python. Turns out this computer programming language isn’t so hard (well, until I got this project! :P ).
 
 Within seconds, I fell in love with its easy, crisp syntax and its automatic indentation while writing. I was mesmerized when I learned that data structures like lists, tuples and dictionary could be created and initialized dynamically with a single line (like so, list-name = [] ).

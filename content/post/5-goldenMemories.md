@@ -13,6 +13,8 @@ categories = [
 ]
 +++
 
+A sonnet I wrote in class 10th as summer holiday homework.
+
 I wonder how my childhood's been,
 As one forgets when he begins to thrive.
 My memory’s now full wiped and clean

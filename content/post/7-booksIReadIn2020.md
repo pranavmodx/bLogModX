@@ -12,6 +12,8 @@ categories = [
 ]
 +++
 
+A list of all books I read in the year 2020.
+
 # Books
 
 ## Novel 

@@ -12,6 +12,8 @@ categories = [
 ]
 +++
 
+Muting annoying Spotify advertisements.
+
 Hey yo! If you are one of those people who recently got to know about Spotify after their much hyped release in India, then you’re not alone. I immediately switched from Youtube (yeah that :) ) to Spotify after I heard that their song recommendations were very good.
 
 Little did I know that they had very annoying audio ads glued after *each* song. After few days of patien

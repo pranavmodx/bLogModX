@@ -12,6 +12,8 @@ categories = [
     "non-tech"
 ]
 +++
+
+A poem dedicated to people who value good friendships.
   
 Life is bright and beautiful, 
 For when he has that special friend
