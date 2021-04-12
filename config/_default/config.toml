@@ -1,0 +1,23 @@
+# set `baseurl` to your root domain
+# if you set it to "/" share icons won't work properly on production
+baseurl = "https://www.blog.pranav.dev/"  # Include trailing slash
+title = "BlogModX"
+author = "Pranav Shridhar"
+copyright = ""
+# canonifyurls = true
+paginate = 10
+theme = "hugo-clarity"
+
+disqusShortname = ""
+
+DefaultContentLanguage = "en"
+# [languages]
+# config/_default/languages.toml
+
+# [menus]
+# config/_default/menus/menu.xx.toml
+
+[taxonomies]
+category = "categories"
+tag = "tags"
+series = "series"
