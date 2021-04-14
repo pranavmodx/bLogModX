@@ -20,7 +20,7 @@ I remember drawing dinasaurs with my brother. He drew amazingly well! That T-Rex
 I think he only drew dinasaurs or something. Velociraptor, Triceratops, you name it.
 I hardly have memories of him drawing something other than a dinosaur.
 
-There's barely any time to 'waste' in drawing now or so I say to myself and what I feel others would say too.
+There's barely any time to 'waste' in drawing now or so I say to myself sadly and what I feel others would say too.
 
 But quite recently, I thought of reviving the artist in me (*ahem*) and start drawing again. Maybe at times when I didn't feel like doing anything else.
 But honestly, drawing with a regular pencil didn't feel so good now as back then. Maybe it is to do with how less often we even use a pencil for our daily work, unless you're an artist or a architect or anything.
