@@ -34,4 +34,4 @@ As it felt like he had a respawn.
 It wasn’t long before he was perturbed
 By a strong wind gushing through his hair.
 Hours had passed by as he looked at the wall and stared.
-Soon he realized he spent just another day on the armchair.
+Soon he realized he spent another day on the armchair.
