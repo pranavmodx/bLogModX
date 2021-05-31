@@ -22,9 +22,9 @@ He desired of establishing and leading a team
 But neglected the responsibilities and tasks in progress.
 
 Frenemies gathered in appreciation and praise
-And he brimmed with confidence and pride
+And he brimmed with confidence and pride.
 For once worry and anxiety faded out of his ways
-As he entered the limelight and made his stride
+As he entered the limelight and made his stride.
 
 He couldn’t wish for anything more
 For he had achieved what he set his heart on.
@@ -33,5 +33,5 @@ As it felt like he had a respawn.
 
 It wasn’t long before he was perturbed
 By a strong wind gushing through his hair.
-Hours had passed by as he looked at the wall and stared
+Hours had passed by as he looked at the wall and stared.
 Soon he realized he spent just another day on the armchair.
