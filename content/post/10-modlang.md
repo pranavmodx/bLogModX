@@ -24,11 +24,11 @@ Even past this sort of reasoning, there comes the notion of reinventing the same
 
 While tinkering around developing and competitive coding, I became ever-so curious about how programming languages came into being and how it all worked in the first place. I wanted to know the magic under the black box.
 
-![Progamming Language Chicken Egg](/images/prog_lang_chicken_egg.png)
+![Programming Language Chicken Egg](/images/prog_lang_chicken_egg.png)
 
 There's so many languages out there today, each having their own strengths and weaknesses, or I should say, their own purpose(s). It doesn't feel right to compare two languages or claim one is better than the other.
 
-![Progamming Language Comparison](/images/prog_lang_comparison.png)
+![Programming Language Comparison](/images/prog_lang_comparison.png)
 
 # What are Programming Languages truly?
 Programming languages are sets of abstract mathematical rules, definitions, and restrictions to be followed by the programmer while writing the source code. But they are meaningless to the computer unless it is converted into a form that the computer can understand, ie, machine language, or machine code. This conversion (or translation) is done by programs called the Interpreter or the Compiler.
