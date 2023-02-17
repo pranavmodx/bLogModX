@@ -1,6 +1,6 @@
 +++
 author = "Pranav Shridhar"
-title = "Books I Read In 2020"
+title = "Books I Read In 2021"
 date = "2022-05-01"
 description = "A list of all books I read in the year 2021."
 tags = [
